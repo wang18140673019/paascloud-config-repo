@@ -13,10 +13,10 @@ spring:
     proxy-target-class: true
     auto: true
   rabbitmq:
-    host: paascloud-mq-rabbit
+    host: wangziming.xin
     port: 5672
-    username: guest
-    password: guest
+    username: tourist
+    password: tourist
   redis:
     host: paascloud-db-redis
     password: paascloud@redis
