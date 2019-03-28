@@ -18,8 +18,8 @@ spring:
     username: tourist
     password: tourist
   redis:
-    host: paascloud-db-redis
-    password: paascloud@redis
+    host: wangziming.xin
+    password: redis
     port: 6379
     timeout: 0
   datasource:
