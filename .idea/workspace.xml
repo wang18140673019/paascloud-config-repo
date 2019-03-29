@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7936c6b4-a2dc-4858-b613-628665944d79" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7936c6b4-a2dc-4858-b613-628665944d79" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +55,8 @@
       <file leaf-file-name="paascloud-provider-uac-dev.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/paascloud-provider-uac-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -78,7 +76,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>https://github.com/wa</find>
       <find>https://github.com/w</find>
       <find>https://g</find>
       <find>https://</find>
@@ -107,6 +104,7 @@
       <find>paascloud-mq-rabbit</find>
       <find>paascloud-gateway</find>
       <find>paascloud_uac</find>
+      <find>7020</find>
       <find>paascloud-db-mysql</find>
     </findStrings>
     <replaceStrings>
@@ -613,12 +611,12 @@
       <workItem from="1553651517248" duration="5135000" />
       <workItem from="1553752299873" duration="5607000" />
       <workItem from="1553824368420" duration="6482000" />
-      <workItem from="1553842820758" duration="579000" />
+      <workItem from="1553842820758" duration="2805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18893000" />
+    <option name="totallyTimeSpent" value="21119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -840,8 +838,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/paascloud-provider-uac-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
