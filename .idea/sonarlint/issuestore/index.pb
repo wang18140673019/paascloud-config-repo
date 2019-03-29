@@ -5,3 +5,5 @@ I
 paascloud-gateway-dev.yml,e\b\ebad5ac9fb7215257e7723cefbc87cf5dc1c532a
 H
 paascloud-zipkin-dev.yml,7\2\722f81defc75b38db00f6c0c6b96b7468aea605c
+N
+paascloud-provider-mdc-dev.yml,e\2\e23ad06ebbd589d91f06d3ed4ae1665884d06169
