@@ -7,11 +7,7 @@ spring:
   cache:
     cache-names: mdc-cache
   datasource:
-    url: jdbc:mysql://wangziming.xin:3306/paascloud_mdc?Searching 2339 files for "characterEncoding=utf8&useSSL=false"
-Searching 2339 files for "characterEncoding=utf8&useSSL=false"
-serverTimezone=GMT
-serverTimezone=GMT&characterEncoding=utf8&useSSL=false
-
+    url: jdbc:mysql://wangziming.xin:3306/paascloud_mdc?serverTimezone=GMT&characterEncoding=utf8&useSSL=false
 liquibase:
   change-log: classpath:liquibase/index.xml
   user: ${spring.datasource.username}

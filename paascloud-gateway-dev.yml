@@ -102,8 +102,7 @@ security:
       user-info-uri: http://wangziming.xin:7979/uac/user
       prefer-token-info: false
       jwt:
-       # key-uri: http://wangziming.xin:8000/oauth/token_key
-       key-uri: http://wangziming.xin:8000
+      key-uri: http://wangziming.xin:8000/oauth/token_key
 
 proxy:
   auth:

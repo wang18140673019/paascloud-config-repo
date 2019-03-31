@@ -5,10 +5,7 @@ spring:
     joda-date-time-format: yyyy-MM-dd HH:mm:ss
     date-format: yyyy-MM-dd HH:mm:ss
   datasource:
-    url: jdbc:mysql://wangziming.xin:3306/paascloud_uac?Searching 2339 files for "characterEncoding=utf8&useSSL=false"
-Searching 2339 files for "characterEncoding=utf8&useSSL=false"
-serverTimezone=GMT
-serverTimezone=GMT&characterEncoding=utf8&useSSL=false
+    url: jdbc:mysql://wangziming.xin:3306/paascloud_uac?SserverTimezone=GMT&characterEncoding=utf8&useSSL=false
 
 mybatis:
   type-aliases-package: com.paascloud.provider.model.domain
