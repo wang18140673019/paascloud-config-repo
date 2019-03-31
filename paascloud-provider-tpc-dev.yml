@@ -2,7 +2,10 @@ spring:
   cache:
     cache-names: tpc-cache
   datasource:
-    url: jdbc:mysql://wangziming.xin:3306/paascloud_tpc?characterEncoding=utf8&useSSL=false
+    url: jdbc:mysql://wangziming.xin:3306/paascloud_tpc?Searching 2339 files for "characterEncoding=utf8&useSSL=false"
+Searching 2339 files for "characterEncoding=utf8&useSSL=false"
+serverTimezone=GMT
+serverTimezone=GMT&characterEncoding=utf8&useSSL=false
 
 liquibase:
   change-log: classpath:liquibase/index.xml
