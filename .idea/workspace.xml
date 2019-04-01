@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/application-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="701">
-              <caret line="138" column="37" lean-forward="false" selection-start-line="138" selection-start-column="37" selection-end-line="138" selection-end-column="37" />
+              <caret line="138" column="26" lean-forward="false" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -586,7 +586,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553955170401</updated>
       <workItem from="1553955172872" duration="12664000" />
-      <workItem from="1554090616910" duration="2396000" />
+      <workItem from="1554090616910" duration="3057000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper 域名改变">
       <created>1554010256500</created>
@@ -630,11 +630,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554038471538</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="错误配置demo">
+      <created>1554101119361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554101119362</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15060000" />
+    <option name="totallyTimeSpent" value="15721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -685,7 +692,8 @@
     <MESSAGE value="zookeeper 域名改变" />
     <MESSAGE value="mysql8 Drive驱动改变" />
     <MESSAGE value="修改错误配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改错误配置" />
+    <MESSAGE value="错误配置demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="错误配置demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -972,7 +980,7 @@
     <entry file="file://$PROJECT_DIR$/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="701">
-          <caret line="138" column="37" lean-forward="false" selection-start-line="138" selection-start-column="37" selection-end-line="138" selection-end-column="37" />
+          <caret line="138" column="26" lean-forward="false" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
           <folding />
         </state>
       </provider>

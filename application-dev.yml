@@ -136,4 +136,4 @@ paascloud:
       pcPath: /data/file/qrCode/alipay
       qiniuPath: alipay/QRCode/
   zk:
-    zkAddressList: wangziming.xin:218
+    zkAddressList: 0.0.0.0:2181
