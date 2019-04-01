@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28f42c51-c84e-4df6-98af-533e38913467" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application-dev.yml" afterPath="$PROJECT_DIR$/application-dev.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/application-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="701">
-              <caret line="138" column="26" lean-forward="false" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
+              <caret line="138" column="33" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -586,7 +585,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553955170401</updated>
       <workItem from="1553955172872" duration="12664000" />
-      <workItem from="1554090616910" duration="3057000" />
+      <workItem from="1554090616910" duration="3721000" />
     </task>
     <task id="LOCAL-00001" summary="zookeeper 域名改变">
       <created>1554010256500</created>
@@ -641,10 +640,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15721000" />
+    <option name="totallyTimeSpent" value="16385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -980,7 +980,7 @@
     <entry file="file://$PROJECT_DIR$/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="701">
-          <caret line="138" column="26" lean-forward="false" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
+          <caret line="138" column="33" lean-forward="true" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="33" />
           <folding />
         </state>
       </provider>
